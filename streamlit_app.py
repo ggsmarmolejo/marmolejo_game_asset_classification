@@ -15,7 +15,7 @@ from sklearn.metrics import classification_report
 def app():
     
     st.title('Game Assets Symbol Classification')
-    st.subheader('by Glaiza Gynn S. Marmoelejo, BSCS 3A-AI, WVSU College of ICT')
+    st.subheader('by Glaiza Gynn S. Marmolejo, BSCS 3A-AI, WVSU College of ICT')
     
     st.write('Dataset description:')
 
